@@ -1,3 +1,4 @@
+pdf_pages/*
 *.pdf
 .DS_Store
 csv_files_old
